@@ -1,10 +1,10 @@
-# Introduction
+# James Daniel Marrs Ritchey
 
-Creator from Canada. Developing whatever sparks my interest.
+I develop whatever sparks my interest.
 
-# Projects
+## Projects
 
-My projects are mostly PHP functions, but there's some other stuff as well.
+My projects are mostly PHP functions, but there's some other stuff as well (HTML, CSS, Javascript, C++, etc).
 
 ## Prefixes
 
@@ -16,9 +16,7 @@ Projects using this prefix are solo projects. Contributions are generally NOT ac
 
 ### Ritchey & AI (ritcheyandai)
 
-Projects using this prefix are typically projects I've developed largely using AI tools. **For the most part, they are meant as custom examples**, rather than finished polished works, which may aid me when developing further projects.
-
-**Note:** just because a project doesn't use this prefix, doesn't mean it hasn't involved AI use, at some stage.
+Projects using this prefix are projects I've made largely using AI tools. **They can be thought of as custom examples**, which may aide me in developing future projects. They are not polished works. Use with caution.
 
 ### Ritchey & Contributors (ritcheyandcontributors)
 
